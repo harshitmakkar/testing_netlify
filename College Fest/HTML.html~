@@ -15,7 +15,7 @@
     <div class="k">
       <span class="glyphicon glyphicon-chevron-left" aria-hidden="true" id="i">
       </span>
-      <span class="j"><a href="#" class="li">HOME</a><br><a href="#" class="li">About Us</a>
+      <span class="j"><a href="#" class="li">Home</a><br><a href="#" class="li">About Us</a>
         <br><a href="https://www.facebook.com/" class="li">Sponsors</a><br><a href="#" class="li">Contact</a><br>
           <a href="#" class="li">Ambassadors</a>
       </span>
